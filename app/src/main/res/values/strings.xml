@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="usuario_user">Usuario</string>
+    <string name="password_1234">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="textoMangas">Hola aquí deberian ir imagenes pero todavia no busco sobre los derechos de autores y como poder referenciarlos, estarán pero primero debo consultar como se hace</string>
+</resources>
